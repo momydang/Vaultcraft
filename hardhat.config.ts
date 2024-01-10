@@ -5,7 +5,7 @@ import "@nomiclabs/hardhat-waffle";
 import "@nomiclabs/hardhat-solhint";
 import "hardhat-gas-reporter";
 require('dotenv').config()
-_0
+_
 module.exports = {
   // hardhat-zksync-solc
   // The compiler configuration for zkSync artifacts.
